@@ -15,4 +15,4 @@ vacine-ja-grupo-10 created by GitHub Classroom
 * Holliver Costa (https://github.com/HolliverCosta)
 
 ---
-# [Especificação](https://docs.google.com/document/d/14MG3EeRj5J-oGXngxAEwBh1XdqPR0Sv1mwVIf3PrTCI/edit)
+# [Especificação]https://docs.google.com/document/d/1rzK3t730M2SYpK3b8HmLQiCY7dAGeePDxXKbn6Xqjmk/edit?usp=sharing
